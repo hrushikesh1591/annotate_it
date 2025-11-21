@@ -1,4 +1,3 @@
-
 import React, { useState, useCallback, useRef } from 'react';
 import type { Annotation, Point, AnnotationType } from './types';
 import { INITIAL_LABELS, DEFAULT_ANNOTATION_COLOR } from './constants';
